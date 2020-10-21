@@ -5,6 +5,7 @@ const {
   getSingleWord,
   getAddWord,
   addWord,
+  getUpdateWord,
   updateWord,
   deleteWord
 } = require('./controllers/wordController');
